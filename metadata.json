@@ -1,0 +1,6 @@
+{
+  "name": "Airline Crew Scheduling System",
+  "description": "An interactive full-stack aviation scheduling application for managing rosters, tracking cargo/passenger duty compliance, detecting flight conflicts, and running server-side AI-powered schedule optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
